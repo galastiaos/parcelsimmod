@@ -1,0 +1,29 @@
+# Unreal Engine Standard Ignores
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.VC.db
+*.opensdf
+*.sdf
+*.sln
+*.suo
+
+# IDE & Project Files
+*.xcodeproj
+*.xcworkspace
+
+# Custom Project Paths & Generated Assets
+ParcelSimulator/ExtractedGameAssets/
+ParcelSimulator/Organizer/BPMod/parcel/Content/*.ushaderbytecode
+ParcelSimulator/Organizer/BPMod/parcel/Content/ShaderAssetInfo*.json
+ParcelSimulator/Organizer/BPMod/parcel/Content/ShaderTypeInfo*.stinfo
+ParcelSimulator/*.usmap
+ParcelSimulator/Organizer/Releases/
+ParcelSimulator/Organizer/*.ucas
+ParcelSimulator/Organizer/*.utoc
+ParcelSimulator/Organizer/BPMod/parcel/content/*.stinfo
+ParcelSimulator/Organizer/BPMod/parcel/content/*.ushaderbytecode
+ParcelSimulator/Organizer/BPMod/parcel/content/ShaderAssetInfo*.json
