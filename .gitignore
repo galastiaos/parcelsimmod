@@ -24,9 +24,9 @@ ParcelSimulator/*.usmap
 ParcelSimulator/Organizer/Releases/
 ParcelSimulator/Organizer/*.ucas
 ParcelSimulator/Organizer/*.utoc
-ParcelSimulator/Organizer/BPMod/parcel/content/*.stinfo
-ParcelSimulator/Organizer/BPMod/parcel/content/*.ushaderbytecode
-ParcelSimulator/Organizer/BPMod/parcel/content/ShaderAssetInfo*.json
+ParcelSimulator/Organizer/BPMod/parcel/Content/*.stinfo
+ParcelSimulator/Organizer/BPMod/parcel/Content/*.ushaderbytecode
+ParcelSimulator/Organizer/BPMod/parcel/Content/ShaderAssetInfo*.json
 ParcelSimulator/Organizer/*.pak
 ParcelSimulator/Organizer/*.dll
 ParcelSimulator/*.lnk
