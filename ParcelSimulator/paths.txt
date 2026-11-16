@@ -1,1 +1,3 @@
 C:\Users\evanr\Documents\ParcelSimulator\ExtractedGameAssets\legacy\parcel\Content\Core\Blueprints\Input
+FModel Rack:
+/parcel/content/core/blueprints/actors/storage

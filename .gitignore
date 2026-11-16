@@ -30,3 +30,5 @@ ParcelSimulator/Organizer/BPMod/parcel/content/ShaderAssetInfo*.json
 ParcelSimulator/Organizer/*.pak
 ParcelSimulator/Organizer/*.dll
 ParcelSimulator/*.lnk
+ParcelSimulator/Known Good paks/
+ParcelSimulator/Organizer/good redundant/
